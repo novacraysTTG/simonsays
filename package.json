@@ -1,0 +1,16 @@
+{
+  "name": "simonsays",
+  "version": "1.0.0",
+  "description": "A simple Simon Says game",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "ejs": "^3.1.9"
+  },
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC"
+}
